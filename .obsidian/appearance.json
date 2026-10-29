@@ -1,0 +1,14 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "Notebook Backgrounds",
+    "CyanVoxel's General Tweaks",
+    "Notebook Backgrounds — копия"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 14
+}

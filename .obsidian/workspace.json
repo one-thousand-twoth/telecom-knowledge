@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "99108e4a83d33f32",
+    "type": "split",
+    "children": [
+      {
+        "id": "45aa5aa96757c50c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a125ebd188a55d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Глоссарий/Коммутация.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Коммутация"
+            }
+          },
+          {
+            "id": "e578b639876839be",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b34400978142afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87c179a16ca5150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fda9d387469726f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0c484553ced7762d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d63653597b4e3081",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.8999938964844
+  },
+  "right": {
+    "id": "9b2c21e32753c2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4c5fdc2d132495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61bf08558761a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Main/Интерфейс.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "121c5f63679a80be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Main/Интерфейс.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "7d4a85dec86e72b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3f6d10dd0fad4ae5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "8e44c873224cff3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Main/Интерфейс.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a125ebd188a55d88",
+  "lastOpenFiles": [
+    "Без названия.base",
+    "202610281755.md",
+    "100 Глоссарий/Коммутация.md",
+    "200 Фундоменталь/Адресация глобально.md",
+    "200 Фундоменталь/База повышения надежности передачи данных.md",
+    "100 Глоссарий/Адресное пространство.md",
+    "200 Фундоменталь/200 Фундоменталь.md",
+    "100 Глоссарий/100 Глоссарий.md",
+    "200 Фундоменталь/Дуплекс.md",
+    "100 Глоссарий/Виды кастов (casts).md",
+    "100 Глоссарий/Интерфейс.md",
+    "100 Глоссарий/Кодирование.md",
+    "100 Глоссарий/Топология сети.md",
+    "100 Глоссарий/Физический интерфейс.md",
+    "300 Физический уровень/Физическая среда передачи данных.md",
+    "300 Физический уровень/Кодирование двоичных цифр.md",
+    "800 Attachments/Pasted image 20261009082024.png",
+    "800 Attachments/Pasted image 20261004103037.png",
+    "08 Attachments",
+    "301 Ethernet",
+    "700 Templates/700 Templates.md",
+    "100 Глоссарий/Логический интерфейс.md",
+    "800 Attachments/Pasted image 20261004144106.png",
+    "800 Attachments/Pasted image 20261004143743.png",
+    "400 Канальный уровень/Коммутация канального уровня.md",
+    "700 Templates/Cite.md",
+    "700 Templates/Daily.md",
+    "700 Templates/Decision.md",
+    "700 Templates/Documentation.md",
+    "400 Канальный уровень",
+    "300 Физический уровень",
+    "08 Attachments/Pasted image 20261004001946.png",
+    "800 Attachments",
+    "07 Templates/07 Templates.base",
+    "200 Фундоменталь",
+    "100 Глоссарий",
+    "700 Templates",
+    "Добро пожаловать.md"
+  ]
+}

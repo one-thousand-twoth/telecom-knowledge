@@ -1,0 +1,11 @@
+/* Global Variables */
+:root {
+
+
+  --page-custom: #2e364f;
+
+}
+
+.view-content {
+  background-color: var(--page-custom);
+}
